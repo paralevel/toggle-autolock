@@ -7,6 +7,6 @@ Shortcut for Control Center on iOS that first takes you to Settings › Display 
 When adding it to Control Center, make sure not to shrink it from widget size to icon size, or you won’t be able see the current auto-lock state
 
 Limitations
-- If you launch the shortcut from outside Control Center, or modify the auto-lock settings without going through the shortcut, the Control Center widget name won’t be updated to reflect the new state, but it will be corrected immediately the next time you launch it from Control Center, though</li>
-- The shortcut will stop working if you change it’s name to something else (unless you also edit all the name-related actions in the shortcut)</li>
+- If you launch the shortcut from outside Control Center, or modify the auto-lock settings without going through the shortcut, the Control Center widget’s name won’t be updated to reflect the new state, but it gets corrected the next time you launch it from Control Center, though</li>
+- The shortcut will stop working if you change it’s name to something else (unless you also edit all the name related actions in the shortcut)</li>
 - If you try to test run the shortcut from inside the iPhone Mirroring app on macOS, you won’t be returned to the previous app since the Get Current App action currently doesn’t work there
