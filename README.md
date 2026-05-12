@@ -1,4 +1,4 @@
-# Toggle Auto-Lock (shortcut)
+# Toggle Auto-Lock
 
 https://www.icloud.com/shortcuts/476814ed526f461abd648558910eaf11
 
