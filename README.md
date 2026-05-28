@@ -1,5 +1,7 @@
 # Toggle Auto-Lock
-
+<sup>_System Requirements: iOS 26_</sup>
+<br>
+<br>
 https://www.icloud.com/shortcuts/476814ed526f461abd648558910eaf11
 
 Shortcut for Control Center on iOS that first takes you to Settings › Display & Brightness › Auto-Lock, then when you have chosen a setting, the shortcut renames itself to reflect the new auto-lock state, and afterwards you are returned to where you launched the shortcut from (either the previous app or the home screen)
