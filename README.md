@@ -1,4 +1,4 @@
-# Toggle Auto-Lock
+# Toggle Auto-Lock on iOS
 <sup>_System Requirements: iOS 26_</sup>
 <br>
 <br>
